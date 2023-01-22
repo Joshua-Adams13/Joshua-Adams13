@@ -1,4 +1,4 @@
-#👋 Hi! I'm Josh Adams
+#Hi! I'm Josh Adams 👋
 ### Aspiring software engineer
 
 - 🌎 I live in Denver
