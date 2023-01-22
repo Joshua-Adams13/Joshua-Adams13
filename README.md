@@ -1,16 +1,13 @@
-### Hi there 👋
+#👋 Hi! I'm Josh Adams
+### Aspiring software engineer
 
-<!--
-**Joshua-Adams13/Joshua-Adams13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌎 I live in Denver
+- 📈 I'm currently a Marketing Campaign Analyst looking to grow into software engineering
+- 🧑🏼‍💻 I spend much of my free time learning to code
+- 💙 My passions are building things, growing as an individual and nurturing my relationships
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills: 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,nodejs,java,py,django,mysql,mongodb,postgres,netlify,instagram,linkedin,)](https://skillicons.dev)
+
+In my marketing career, I've learned a profound truth about myself - I am incredibly passionate about building things and working with data. The more I work with our advertising performance data, the more I learn to love programming languages and what they can do for us. I love spending my free time learning more about the technologies listed above and I'm hoping to turn this passion into a career where I can grow my skills and contribute to building and optimizing tools with like-minded teammates. 
